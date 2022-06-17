@@ -1,0 +1,4 @@
+SELECT NAME 
+FROM cities
+WHERE NAME 
+LIKE '%u%' 
